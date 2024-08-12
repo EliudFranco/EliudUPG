@@ -1,0 +1,14 @@
+<HTML>
+<title>Universidad Pedro de Gante</title>
+<body bgcolor="blue">
+<h1>La razon por la que me inscribi a la UPG>
+<h2>Mi nombre es Eliud Isai Franco Zurita</h2>
+<h3>La principal razon por la que me inscribi fue gracias a su gran ambiente academico y la posibilidad de ajustar mis horarios a sus horarios de clases</h3>
+<br></br>
+<img src="upg.png">
+</img>
+<video src="UPG.mp4">
+</video>
+</body>
+</HTML>
+
